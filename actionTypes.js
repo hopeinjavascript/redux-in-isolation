@@ -1,0 +1,5 @@
+export default {
+  ADD_NOTE: "ADD_NOTE",
+  REMOVE_NOTE: "REMOVE_NOTE",
+  MARK_RESOLVED: "MARK_RESOLVED",
+};
